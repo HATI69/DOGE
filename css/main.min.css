@@ -639,7 +639,7 @@ body::after {
   padding-top: 86.97%;
 }
 .dashboard__information {
-  background-image: url(../img/dashboard/rocket.jpg);
+  background-image: url(../images/dashboard/rocket.jpg);
   background-size: cover;
 }
 .dashboard__item-link {
@@ -736,7 +736,7 @@ body::after {
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
   right: 12px;
-  background-image: url(../img/icons/pen.svg);
+  background-image: url(../images/icons/pen.svg);
   background-repeat: no-repeat;
   height: 13px;
   width: 13px;
@@ -1032,7 +1032,7 @@ body::after {
 .sircle::after {
   content: "";
   position: absolute;
-  background-image: url(../img/icons/arrow.svg);
+  background-image: url(../images/icons/arrow.svg);
   background-repeat: no-repeat;
   width: 12px;
   height: 7px;
@@ -1392,7 +1392,7 @@ body {
 
 .parallax__images-cube1 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube2.png);
+  background-image: url(../images/firstscreen/parallaxcube2.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 10.98%;
@@ -1408,7 +1408,7 @@ body {
 
 .parallax__images-cube2 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube2.png);
+  background-image: url(../images/firstscreen/parallaxcube2.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 196px;
@@ -1422,7 +1422,7 @@ body {
 
 .parallax__images-cube3 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube4.png);
+  background-image: url(../images/firstscreen/parallaxcube4.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 14.68%;
@@ -1434,7 +1434,7 @@ body {
 
 .parallax__images-cube4 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube5.png);
+  background-image: url(../images/firstscreen/parallaxcube5.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 5.67%;
@@ -1449,7 +1449,7 @@ body {
 
 .parallax__images-cube5 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube2.png);
+  background-image: url(../images/firstscreen/parallaxcube2.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 5.64%;
@@ -1462,7 +1462,7 @@ body {
 
 .parallax__images-cube6 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube.png);
+  background-image: url(../images/firstscreen/parallaxcube.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 5.1%;
@@ -1477,7 +1477,7 @@ body {
 
 .parallax__images-cube7 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube2.png);
+  background-image: url(../images/firstscreen/parallaxcube2.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 10.11%;
@@ -1490,7 +1490,7 @@ body {
 
 .parallax__images-cube8 {
   position: absolute;
-  background-image: url(../img/firstscreen/parallaxcube2.png);
+  background-image: url(../images/firstscreen/parallaxcube2.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 4.32%;
@@ -1518,7 +1518,7 @@ body {
   position: absolute;
   width: 8.46%;
   height: 14.61%;
-  background-image: url(../img/icons/down.svg);
+  background-image: url(../images/icons/down.svg);
   background-repeat: no-repeat;
   background-size: cover;
   top: 50%;
@@ -2033,7 +2033,7 @@ body {
     margin-bottom: 212px;
     padding-top: 89.07% !important;
     background-position: 43% -1% !important;
-    background-image: url(../img/firstscreen/bg-img.png) !important;
+    background-image: url(../images/firstscreen/bg-img.png) !important;
   }
 
   .parallax__images-cube1 {
@@ -2201,7 +2201,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  background-image: url(../img/firstscreen/bg1.png);
+  background-image: url(../images/firstscreen/bg1.png);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -2241,7 +2241,7 @@ body {
   position: absolute;
   bottom: 0;
   left: -7.81%;
-  background-image: url(../img/firstscreen/bg-img2.png);
+  background-image: url(../images/firstscreen/bg-img2.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 40% -1%;
@@ -2255,7 +2255,7 @@ body {
   top: 0;
   margin-top: 8.854%;
   right: 0;
-  background-image: url(../img/firstscreen/cube.png);
+  background-image: url(../images/firstscreen/cube.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 80%;
@@ -2268,7 +2268,7 @@ body {
   left: 0;
   width: 14.06%;
   padding-top: 23.07%;
-  background-image: url(../img/firstscreen/cube2.png);
+  background-image: url(../images/firstscreen/cube2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2384,11 +2384,11 @@ body {
   z-index: -1;
 }
 .info__img--blur::after {
-  background-image: url(../img/info/item-img.jpg);
+  background-image: url(../images/info/item-img.jpg);
   background-size: cover;
 }
 .info__img--blur2::after {
-  background-image: url(../img/info/item-img2.jpg);
+  background-image: url(../images/info/item-img2.jpg);
   background-size: cover;
 }
 .info-icon {
@@ -2502,7 +2502,7 @@ body {
   position: absolute;
   top: 0;
   right: 0;
-  background-image: url(../img/subscribe/cube2.png);
+  background-image: url(../images/subscribe/cube2.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 26.35%;
@@ -2534,7 +2534,7 @@ body {
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
-  background-image: url(../img/subscribe/cube.png);
+  background-image: url(../images/subscribe/cube.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 11.31%;
@@ -2618,5 +2618,5 @@ body {
   right: 22px;
   width: 16px;
   height: 10px;
-  background-image: url(../img/icons/subscribe.png);
+  background-image: url(../images/icons/subscribe.png);
 }
