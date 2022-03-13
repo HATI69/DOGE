@@ -1158,28 +1158,28 @@ select {
   font-family: "adineueprocyr_boldweb";
   font-weight: 700;
   font-style: normal;
-  src: local("adineueprocyr_boldweb"), url("../fonts/adineueprocyr_boldweb.woff2") format("woff2"), url("../fonts/adineueprocyr_boldweb.woff") format("woff");
+  src: local("adineueprocyr_boldweb"), url("fonts/adineueprocyr_boldweb.woff2") format("woff2"), url("fonts/adineueprocyr_boldweb.woff") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "Axiforma-Regular";
   font-weight: 400;
   font-style: normal;
-  src: local("Axiforma-Regular"), url("../fonts/Axiforma-Regular.woff2") format("woff2"), url("../fonts/Axiforma-Regular.woff") format("woff");
+  src: local("Axiforma-Regular"), url("fonts/Axiforma-Regular.woff2") format("woff2"), url("fonts/Axiforma-Regular.woff") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "LabGrotesque-Bold";
   font-weight: 700;
   font-style: normal;
-  src: local("LabGrotesque-Bold"), url("../fonts/LabGrotesque-Bold.woff2") format("woff2"), url("../fonts/LabGrotesque-Bold.woff") format("woff");
+  src: local("LabGrotesque-Bold"), url("fonts/LabGrotesque-Bold.woff2") format("woff2"), url("fonts/LabGrotesque-Bold.woff") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "LabGrotesque-Regular";
   font-weight: 400;
   font-style: normal;
-  src: local("LabGrotesque-Regular"), url("../fonts/LabGrotesque-Regular.woff2") format("woff2"), url("../fonts/LabGrotesque-Regular.woff") format("woff");
+  src: local("LabGrotesque-Regular"), url("fonts/LabGrotesque-Regular.woff2") format("woff2"), url("fonts/LabGrotesque-Regular.woff") format("woff");
   font-display: swap;
 }
 html, body {
